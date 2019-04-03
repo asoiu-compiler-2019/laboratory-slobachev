@@ -1,0 +1,11 @@
+import system
+
+function Main()
+{
+    i = 10
+    while(i != 0)
+    {
+        i = i - 1
+        PrintLine("hello world")
+    }
+}
