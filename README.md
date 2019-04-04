@@ -7,9 +7,9 @@ add to this repository all your completed work and continue till the end of seme
 
 Short reminder about how to fill readme
 
-1. Epidemics research based on epidemic Ebola.
-2. Types: string, number; Functions: repeat, while, IO.
-3. A simple programming language written on C#, which is capable to accept user's input and display output also calculate simple math equations.
+1. Epidemic research based on the Ebola epidemic.
+2. Types: string, number; Functions: repeat, while, IO methods.
+3. A simple programming language written in C#, which is capable to accept user's input and display output also calculate simple math equations.
 
 Some examples are included in the examples folder. :zap:
 
