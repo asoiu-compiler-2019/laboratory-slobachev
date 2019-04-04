@@ -7,13 +7,11 @@ add to this repository all your completed work and continue till the end of seme
 
 Short reminder about how to fill readme
 
-1. Short description about your chosen theme
-(add your text here)
-2. Description of your language (types, built-in functions etc.)
-(add your text here)
-3. Description 
-(add your text here)
+1. Epidemics research based on epidemic Ebola.
+2. Types: string, number; Functions: repeat, while, IO.
+3. A simple programming language written on C#, which is capable to accept user's input and display output also calculate simple math equations.
 
+Some examples are included in the examples folder. :zap:
 
 Short reminder about tasks
 
